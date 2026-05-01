@@ -30,7 +30,7 @@ This project implements and compares three genetic algorithm representations for
 
 ## Screenshots / Demo
 
-![Cartesian Fitness Curve](graphs/cartesian_n10_best_run.png)
+[![Cartesian Fitness Curve](graphs/cartesian_n10_best_run.png)](graphs/cartesian_n10_best_run.png)
 ![Cartesian Final Distribution](graphs/cartesian_n10_best_final.png)
 
 > Cartesian representation (n = 10): fitness curve for the best trial (left) and final point distribution of the best solution (right).
