@@ -120,7 +120,7 @@ point-scattering-problem/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/UCF-EvolutionaryComputation-PointScatteringProblem.git
+git clone https://github.com/alexneilgreen/UCF-EvolutionaryComputation-PointScatteringProblem.git
 cd UCF-EvolutionaryComputation-PointScatteringProblem
 
 # 2. Install dependencies
