@@ -30,17 +30,20 @@ This project implements and compares three genetic algorithm representations for
 
 ## Screenshots / Demo
 
-![Cartesian Fitness Curve](docs/cartesian_n10_best_run.png)
+![Cartesian Fitness Curve](graphs/cartesian_n10_best_run.png)
+![Cartesian Final Distribution](graphs/cartesian_n10_best_final.png)
 
-> Fitness curve for the best Cartesian run at n = 10, showing the best minimum pairwise distance over 200 generations.
+> Cartesian representation (n = 10): fitness curve for the best trial (left) and final point distribution of the best solution (right).
 
-![Polar Fitness Curve](docs/polar_n10_best_run.png)
+![Polar Fitness Curve](graphs/polar_n10_best_run.png)
+![Polar Final Distribution](graphs/polar_n10_best_final.png)
 
-> Fitness curve for the best polar run at n = 10.
+> Polar representation (n = 10): fitness curve for the best trial (left) and final point distribution of the best solution (right).
 
-![Boundary Fitness Curve](docs/boundary_n10_best_run.png)
+![Boundary Fitness Curve](graphs/boundary_n10_best_run.png)
+![Boundary Final Distribution](graphs/boundary_n10_best_final.png)
 
-> Fitness curve for the best boundary run at n = 10, where all points are constrained to the circle perimeter.
+> Boundary representation (n = 10): fitness curve for the best trial (left) and final point distribution showing all points constrained to the perimeter (right).
 
 ---
 
